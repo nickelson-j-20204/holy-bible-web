@@ -12,7 +12,7 @@
  *    is reloaded in the middle of a chapter.
  */
 const SHELL = ["./","./assets/index-XKMMkGQc.js","./assets/index-kgHi3__q.css","./manifest.webmanifest","./icons/icon-192.png","./icons/icon-512.png","./icons/icon-maskable-512.png","./icons/apple-touch-icon.png","./data/meta.json"]
-const SHELL_CACHE = 'shell-' + "36bdb1724d85"
+const SHELL_CACHE = 'shell-' + "a91b7e1dfc2d"
 const DATA_CACHE = 'data-' + "6ef26eac0933"
 
 self.addEventListener('install', (event) => {
